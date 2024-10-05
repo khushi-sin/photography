@@ -1,2 +1,2 @@
 # sigma-demo
-This is for sigma tutorial.
+This is for sigma tutorial!
